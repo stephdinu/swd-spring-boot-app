@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.securingweb.SecuringWebApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-04T13:59:05" hostname="Stephanies-MacBook-Pro.local" time="0.69">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.securingweb.SecuringWebApplicationTests" time="0.69"/>
+  <system-out><![CDATA[15:59:03.915 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.securingweb.SecuringWebApplicationTests]: SecuringWebApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:59:03.996 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.securingweb.SecuringWebApplication for test class com.example.securingweb.SecuringWebApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.1)
+
+2023-07-04T15:59:04.275+02:00  INFO 59395 --- [    Test worker] c.e.s.SecuringWebApplicationTests        : Starting SecuringWebApplicationTests using Java 20.0.1 with PID 59395 (started by stephaniedinu in /Users/stephaniedinu/IdeaProjects/swd-spring-boot-app)
+2023-07-04T15:59:04.276+02:00  INFO 59395 --- [    Test worker] c.e.s.SecuringWebApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-07-04T15:59:05.082+02:00  INFO 59395 --- [    Test worker] c.e.s.SecuringWebApplicationTests        : Started SecuringWebApplicationTests in 0.977 seconds (process running for 1.87)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
